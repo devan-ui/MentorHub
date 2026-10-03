@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+motor
+bcrypt
+email-validator
+aiosmtplib
+PyJWT
+python-multipart
+python-jose

@@ -1,0 +1,14 @@
+# Virtual environment
+app/venv/
+venv/
+
+# Compiled Python / cache
+__pycache__/
+*.py[cod]
+*.pyc
+app/routes/__pycache__/
+app/__pycache__/
+
+# Env files
+.env
+*.env.local
